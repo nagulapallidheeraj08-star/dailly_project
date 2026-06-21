@@ -1,0 +1,8 @@
+# Common
+node_modules/
+__pycache__/
+*.log
+.env
+.DS_Store
+dist/
+build/
